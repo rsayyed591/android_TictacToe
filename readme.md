@@ -22,11 +22,11 @@ To run the game on your local machine, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/rsayyed591/android_TictacToe.git
+   git clone https://github.com/rsayyed591/tictacToe.git
    ```
 2. Navigate to the project directory:
    ```
-   cd your-repo
+   cd tictactoe
    ```
 3. Install dependencies:
    ```
@@ -34,7 +34,7 @@ To run the game on your local machine, follow these steps:
    ```
 4. Run the project:
    ```
-   npm start or npx expo start
+   npm start 
    ```
 5. Scan the QR code using the Expo Go app on your mobile device to open the game.
 
@@ -56,4 +56,4 @@ Enjoy playing Tic Tac Toe with your friends!
 
 ## Credits
 
-This project was created by [Your Name]. Feel free to contribute or report issues on the [GitHub repository](https://github.com/rsayyed591/android_TictacToe.git).
+This project was created by [Rehan Sayyed]. Feel free to contribute or report issues on the [GitHub repository](https://github.com/rsayyed591/tictacToe.git).
