@@ -2,13 +2,6 @@
 
 This is a simple Tic Tac Toe game built using React Native. It allows two players to play against each other on a 3x3 grid. The game features input fields for players' names, a start button to initiate the game, and a restart button to reset the game.
 
-## Screenshots
-
-![Screenshot 1](/assets/ss/image1.jpg)
-![Screenshot 2](/assets/ss/image2.jpg)
-![Screenshot 3](/assets/ss/image3.jpg)
-![Screenshot 4](/assets/ss/image4.jpg)
-
 ## Features
 
 - Allows two players to input their names.
@@ -53,6 +46,13 @@ To run the game on your local machine, follow these steps:
 5. Click the "Restart Game" button to play again.
 
 Enjoy playing Tic Tac Toe with your friends!
+
+## Screenshots
+
+![Screenshot 1](/assets/ss/image1.jpg)
+![Screenshot 2](/assets/ss/image2.jpg)
+![Screenshot 3](/assets/ss/image3.jpg)
+![Screenshot 4](/assets/ss/image4.jpg)
 
 ## Credits
 
