@@ -9,6 +9,14 @@ This is a simple Tic Tac Toe game built using React Native. It allows two player
 - Indicates the winning line when a player wins.
 - Provides a restart button to reset the game.
 
+## Screenshots
+<div style={display:'flex'}>
+<img src="./assets/ss/image1.jpg" alt="Screenshot 1" width="300" />
+<img src="./assets/ss/image2.jpg" alt="Screenshot 2" width="300" />
+<img src="./assets/ss/image3.jpg" alt="Screenshot 3" width="300" />
+<img src="./assets/ss/image4.jpg" alt="Screenshot 4" width="300" />
+</div>
+
 ## Installation
 
 To run the game on your local machine, follow these steps:
@@ -46,13 +54,6 @@ To run the game on your local machine, follow these steps:
 5. Click the "Restart Game" button to play again.
 
 Enjoy playing Tic Tac Toe with your friends!
-
-## Screenshots
-
-![Screenshot 1](/assets/ss/image1.jpg)
-![Screenshot 2](/assets/ss/image2.jpg)
-![Screenshot 3](/assets/ss/image3.jpg)
-![Screenshot 4](/assets/ss/image4.jpg)
 
 ## Credits
 
